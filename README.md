@@ -9,19 +9,6 @@ This project performs sentiment analysis on 1.6 million tweets using Natural Lan
 - Data Preprocessing (removal of stopwords, links, punctuation, etc.)
 - Text Tokenization
 - TF-IDF Vectorization
-- Logistic Regression, Naive Bayes
+- Logistic Regression
 - Model Evaluation (Accuracy, Precision, Recall)
 
-## 📒 Notebook
-- `TWITTER_SENTIMENT_ANALYSIS_(NLP).ipynb` contains the complete code.
-
-## 📊 Output Report
-- See the PDF report: `Twitter data sentiment analysis.pdf`
-
-## 🚀 How to Run
-1. Clone the repository
-2. Install dependencies (if using `requirements.txt`)
-3. Open the notebook and run all cells
-
-## 📌 Note
-- For large datasets, it's recommended to run on Google Colab.
